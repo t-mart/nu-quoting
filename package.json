@@ -1,0 +1,11 @@
+{
+  "name": "nu-quoting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "repro": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
